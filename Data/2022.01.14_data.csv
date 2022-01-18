@@ -1,0 +1,6 @@
+order_id,channel,date,month,revenue
+1,online,2018-09-01,9,100
+2,online,2018-09-03,9,125
+3,in_store,2018-10-11,10,200
+4,in_store,2018-08-21,8,80
+5,online,2018-08-13,8,200
